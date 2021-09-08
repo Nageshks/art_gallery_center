@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Art Gallery</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Landing Fragment</string>
+    <string name="second_fragment_label">Profile Fragment</string>
+
+    <string name="lorem_para">\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
+    <string name="lorem_title">Lorem ipsum is used</string>
+    <string name="lorem_small_para">Lorem ipsum dolor sit amit, consectetur adipiscing elit</string>
+
+    <string name="register">register</string>
+    <string name="me_as_collector">me as a collector</string>
+    <string name="track_my_application">track my application</string>
+    <string name="copy_right">Content Copyright reserved.</string>
+    <string name="link_about_us">About Us.</string>
+    <string name="link_affiliations">Affiliations.</string>
+    <string name="link_team">Team.</string>
+    <string name="link_disclaimers">Disclaimers.</string>
+    <string name="link_reach">Reach Us.</string>
+    <string name="link_privacy">Privacy Policy.</string>
+
+    <string name="account">Account</string>
+    <string name="add">Add</string>
+    <string name="menu">Menu</string>
+    <string name="upload">Upload</string>
+    <string name="uploads">Uploads</string>
+    <string name="edit">Edit</string>
+    <string name="user_name">john.doe</string>
+    <string name="my_dashboard">My dashboard</string>
+    <string name="followers">Followers</string>
+    <string name="artworks">Artworks</string>
+    <string name="exhibitions">Exhibitions</string>
+    <string name="revenue">Revenue</string>
+    <string name="cd_artwork">User Artwork %d</string>
+
+</resources>
