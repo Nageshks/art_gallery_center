@@ -5,7 +5,7 @@
     <string name="first_fragment_label">Landing Fragment</string>
     <string name="second_fragment_label">Profile Fragment</string>
 
-    <string name="lorem_para">\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
+    <string name="lorem_para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</string>
     <string name="lorem_title">Lorem ipsum is used</string>
     <string name="lorem_small_para">Lorem ipsum dolor sit amit, consectetur adipiscing elit</string>
 

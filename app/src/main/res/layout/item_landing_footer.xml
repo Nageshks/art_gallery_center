@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+    </data>
+
+    <androidx.gridlayout.widget.GridLayout xmlns:grid="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/spacing_normal"
+        grid:alignmentMode="alignBounds"
+        grid:columnCount="2"
+        grid:rowOrderPreserved="false"
+        grid:useDefaultMargins="false">
+
+        <!--    Region:Social    -->
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            grid:layout_columnSpan="2">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/small_icon_size"
+                android:layout_height="@dimen/small_icon_size"
+                grid:srcCompat="@drawable/vector_drawable_logo_fb" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/small_icon_size"
+                android:layout_height="@dimen/small_icon_size"
+                android:layout_marginStart="@dimen/spacing_short"
+                grid:srcCompat="@drawable/png_logo_insta" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <!--    endregion    -->
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/spacing_normal"
+            grid:layout_columnSpan="2"
+            grid:srcCompat="@drawable/shape_divider" />
+
+        <!--   Header     -->
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingBottom="@dimen/spacing_normal"
+            grid:layout_columnSpan="2"
+            grid:srcCompat="@drawable/vector_drawable_landing_header_small" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:paddingStart="@dimen/spacing_large"
+            android:paddingEnd="0dp"
+            android:text="@string/link_about_us"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:text="@string/link_affiliations"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:paddingStart="@dimen/spacing_large"
+            android:paddingEnd="0dp"
+            android:text="@string/link_team"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:text="@string/link_disclaimers"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:paddingStart="@dimen/spacing_large"
+            android:paddingEnd="0dp"
+            android:text="@string/link_reach"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="0dp"
+            android:gravity="start"
+            android:paddingVertical="@dimen/spacing_short"
+            android:text="@string/link_privacy"
+            android:textAppearance="@style/TextAppearance.MaterialComponents.Subtitle2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:paddingVertical="@dimen/spacing_normal"
+            grid:layout_columnSpan="2"
+            grid:layout_columnWeight="1"
+            grid:layout_gravity="fill_horizontal"
+            grid:srcCompat="@drawable/shape_divider" />
+
+        <!--  Region : Copyright     -->
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            grid:layout_columnSpan="2">
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:layout_width="@dimen/very_small_icon_size"
+                android:layout_height="@dimen/very_small_icon_size"
+                grid:srcCompat="@drawable/vector_drawable_logo_copyright" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/spacing_short"
+                android:layout_marginEnd="0dp"
+                android:text="@string/copy_right"
+                grid:srcCompat="@drawable/png_logo_insta" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+        <!--  endregion      -->
+
+    </androidx.gridlayout.widget.GridLayout>
+
+</layout>

@@ -1,3 +1,5 @@
 ext {
     v_glide = '4.12.0'
+    v_epoxy = '4.6.2'
+    v_grid = '1.0.0'
 }

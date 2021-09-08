@@ -4,15 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.24814814814814815" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/drawable/shape_divider.xml" value="0.16907216494845362" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/drawable/vector_drawable_landing_arr_white.xml" value="0.2222222222222222" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/drawable/vector_drawable_landing_header_large.xml" value="0.2222222222222222" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/content_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/divider.xml" value="0.1287568306010929" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_first.xml" value="0.17028985507246377" />
-        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_landing.xml" value="0.18" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_landing.xml" value="0.1" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_profile.xml" value="0.17074275362318841" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_scrolling.xml" value="0.22" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/fragment_second.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/item_landing_feature.xml" value="0.14" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/item_landing_featuyre.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/item_landing_footer.xml" value="0.25" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/item_landing_head.xml" value="0.18" />
+        <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/landing_features.xml" value="0.10450819672131148" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/layout/landing_head.xml" value="0.25" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13645833333333332" />
         <entry key="..\:/Users/Nagesh/AndroidStudioProjects/ArtGallery/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13645833333333332" />
