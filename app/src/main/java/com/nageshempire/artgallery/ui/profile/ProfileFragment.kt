@@ -1,4 +1,4 @@
-package com.nageshempire.artgallery.profile
+package com.nageshempire.artgallery.ui.profile
 
 import android.os.Bundle
 import android.view.LayoutInflater

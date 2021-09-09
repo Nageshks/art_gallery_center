@@ -1,4 +1,4 @@
-package com.nageshempire.artgallery.landing
+package com.nageshempire.artgallery.ui.landing
 
 import android.os.Bundle
 import android.view.LayoutInflater
