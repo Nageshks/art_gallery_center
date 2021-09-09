@@ -8,4 +8,11 @@
         <item name="trackTint">@color/brand_green</item>
     </style>
 
+    <style name="Widget.Tab" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">@color/pallette_yellow</item>
+        <item name="tabSelectedTextColor">@color/black</item>
+        <item name="tabTextColor">@color/tint_light_text</item>
+        <item name="tabIconTint">@color/black</item>
+    </style>
+
 </resources>
