@@ -10,5 +10,13 @@
     <color name="brand_white">#F2F2F2</color>
     <color name="brand_yellow">#D9B26A</color>
     <color name="brand_blue">#577BDF</color>
+    <color name="brand_green">#44A33D</color>
+
+    <color name="pallette_dark_brown">#5f0e47</color>
+    <color name="pallette_brown">#9e003d</color>
+    <color name="pallette_red">#d90034</color>
+    <color name="pallette_orange">#ff4518</color>
+    <color name="pallette_yellow">#ffc200</color>
+
 
 </resources>

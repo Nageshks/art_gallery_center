@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Switch" parent="Widget.MaterialComponents.CompoundButton.Switch">
+        <!-- for time being : color hardcoded for current state only     -->
+        <item name="switchMinWidth">@dimen/switch_min_width</item>
+        <item name="thumbTint">@color/brand_white</item>
+        <item name="trackTint">@color/brand_green</item>
+    </style>
+
+</resources>
