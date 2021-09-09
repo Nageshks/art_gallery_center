@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="TextAppearance.ProfileSubtitle" parent="TextAppearance.MaterialComponents.Headline6" />
+
+    <style name="TextAppearance.ProfileTitle" parent="TextAppearance.AppCompat.Large" />
+
+    <style name="TextAppearance.ProfileCaption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textSize" tools:ignore="SpUsage">11dp</item>
+    </style>
+
+    <style name="TextAppearance.ProfileColoredCaption" parent="TextAppearance.ProfileCaption">
+        <item name="android:textColor">@color/brand_blue</item>
+    </style>
+
+</resources>
